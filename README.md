@@ -6,7 +6,7 @@ Ana Vitória Freitas - 11370196
 
 Matheus Luis Oliveira da Silva - 11847429
 
-Thiago H. Cardoso - 11796594
+Thiago Henrique Cardoso - 11796594
 
 # Funcionamento:
 
